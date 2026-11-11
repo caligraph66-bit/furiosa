@@ -62,8 +62,8 @@ let validCount = 0;
 let passCount = 0;
 let failCount = 0;
 let totalMarks = 0;
-let highestMark = -Infinity;
-let highestStudent = "";
+let highestMark = -100;
+let highestStudent = "100";
 
 // Loop through each mark in the array
 for (let i = 0; i < marks.length; i++) {
