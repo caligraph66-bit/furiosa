@@ -1,7 +1,7 @@
 // ==========================================
 // CHALLENGE 1: Chai and Mandazi Counter
 // ==========================================
-console.log("--- Challenge 1 Output ---");
+console.log("--- Challenge 1  ---");
 
 // Loop from 1 to 30 counting and checking canteen multiples
 for (let i = 1; i <= 30; i++) {
@@ -21,7 +21,7 @@ for (let i = 1; i <= 30; i++) {
 // ==========================================
 // CHALLENGE 2: Savings Challenge
 // ==========================================
-console.log("\n--- Challenge 2 Output ---");
+console.log("\n--- Challenge 2  ---");
 
 let goal = 5000;
 let month = 1;
@@ -52,9 +52,9 @@ console.log(Goal reached in month ${month} with KES ${total}!);
 
 
 // ==========================================
-// CHALLENGE 3: Report Card Rescue
+// CHALLENGE 3: Report Card 
 // ==========================================
-console.log("\n--- Challenge 3 Output ---");
+console.log("\n--- Challenge 3 ---");
 
 let marks = [78, 45, -5, 92, 60, 101, 55, 38];
 
